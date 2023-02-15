@@ -4,4 +4,4 @@ const date: Date = new Date("2050-11-08");
 
 const seconds = domUtils.getDateTime(date);
 
-console.log(333, seconds);
+console.log(444, seconds);
