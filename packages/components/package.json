@@ -1,6 +1,6 @@
 {
   "name": "@demo/components",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "mrzouning <mrzouning@163.com>",
   "homepage": "",
@@ -19,7 +19,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@demo/core": "^0.0.3"
+    "@demo/core": "^0.0.4"
   },
   "gitHead": "f835eccb1eb8fa915ff47985ffa491f6aa30800b"
 }

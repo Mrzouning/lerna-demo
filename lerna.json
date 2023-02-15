@@ -1,7 +1,7 @@
 {
   "useWorkspaces": true,
   "client": "yarn",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publishConfig": {
     "registry": "http://43.138.232.95:4873/"
   }
