@@ -1,6 +1,5 @@
 {
   "name": "lerna-demo",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
