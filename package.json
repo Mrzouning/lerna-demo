@@ -15,5 +15,6 @@
   },
   "scripts": {
     "publish": "lerna run build && lerna publish"
-  }
+  },
+  "version": "0.0.1"
 }
