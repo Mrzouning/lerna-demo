@@ -30,19 +30,19 @@
 
 "@demo/components@file:/Users/jzou/Desktop/Mac/jos-demo/lerna-demo/packages/components":
   "resolved" "file:packages/components"
-  "version" "0.0.4"
+  "version" "0.0.5"
   dependencies:
-    "@demo/core" "^0.0.3"
+    "@demo/core" "^0.0.4"
 
-"@demo/core@^0.0.4", "@demo/core@file:/Users/jzou/Desktop/Mac/jos-demo/lerna-demo/packages/core":
+"@demo/core@^0.0.5", "@demo/core@file:/Users/jzou/Desktop/Mac/jos-demo/lerna-demo/packages/core":
   "resolved" "file:packages/core"
-  "version" "0.0.4"
+  "version" "0.0.5"
 
 "@demo/hooks@file:/Users/jzou/Desktop/Mac/jos-demo/lerna-demo/packages/hooks":
   "resolved" "file:packages/hooks"
-  "version" "0.0.4"
+  "version" "0.0.5"
   dependencies:
-    "@demo/core" "^0.0.3"
+    "@demo/core" "^0.0.4"
 
 "@gar/promisify@^1.1.3":
   "integrity" "sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw=="
