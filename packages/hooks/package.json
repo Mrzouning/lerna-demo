@@ -1,6 +1,6 @@
 {
   "name": "@demo/hooks",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "> TODO: description",
   "author": "mrzouning <mrzouning@163.com>",
   "homepage": "",
@@ -22,7 +22,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@demo/core": "^0.0.8"
+    "@demo/core": "^0.0.9"
   },
   "gitHead": "794eba0cc31319acc34216e52656115cdb4f32ce"
 }
