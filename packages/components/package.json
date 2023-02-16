@@ -10,7 +10,9 @@
     "lib": "lib"
   },
   "files": [
-    "lib"
+    "lib",
+    "package.json",
+    "README.md"
   ],
   "publishConfig": {
     "registry": "http://registry.npm.taobao.org/"
@@ -21,5 +23,5 @@
   "dependencies": {
     "@demo/core": "^0.0.4"
   },
-  "gitHead": "f835eccb1eb8fa915ff47985ffa491f6aa30800b"
+  "gitHead": "677b886d21408fed848b1c6120a521ee28cd3ff9"
 }
