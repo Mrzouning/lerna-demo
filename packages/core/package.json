@@ -7,7 +7,10 @@
   "license": "ISC",
   "main": "lib/index.js",
   "files": [
-    "lib"
+    "lib",
+    "package.json",
+    "README.md",
+    "types"
   ],
   "publishConfig": {
     "registry": "http://43.138.232.95:4873/"
@@ -15,5 +18,5 @@
   "scripts": {
     "build": "tsc"
   },
-  "gitHead": "6b887e91557075ecc934410658c3351471fcc42e"
+  "gitHead": "f44bf9f53c99ffb590fc9d7e9367cd1328ac999f"
 }
